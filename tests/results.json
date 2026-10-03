@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "independent_reference": "pyproj WGS84 Geod",
+  "points": 12,
+  "distance_cases": 104,
+  "max_distance_error_m": 6.507357284135651e-7,
+  "tests": [
+    "radius counts and nearest entrance match independent Python reference",
+    "included evidence IDs only",
+    "invalid coordinates and missing names rejected",
+    "empty data explained without business inference"
+  ]
+}

@@ -1,0 +1,14 @@
+# 数据来源与署名
+
+© OpenStreetMap contributors
+
+本目录 data/ 中的北京 OSM 原始快照与其派生 POI 数据来自 OpenStreetMap，经 Geofabrik 提取，按 Open Database License 1.0 (ODbL) 使用。
+
+- OSM 版权说明：https://www.openstreetmap.org/copyright
+- 完整许可：https://opendatacommons.org/licenses/odbl/1-0/
+- 官方下载目录：https://download.geofabrik.de/asia/china/beijing.html
+- 原始快照：https://download.geofabrik.de/asia/china/beijing-260930.osm.pbf
+
+公开分发原始或派生数据库时，保留署名与许可，按 ODbL 满足相关共享要求。公开地图或报告需采用适用署名方式。数据许可不自动授权地图瓦片或其他在线服务的批量使用。本轮仅下载开放提取文件，不使用在线瓦片、搜索服务或商业地图 API。
+
+分类规则和检查文档描述项目方法；OSM 原始标签、几何和派生数据库仍依适用 ODbL 条款使用。边界来自当前官方 .poly，经网页读取工具逐行保存，未验证其与 2026-09-30 提取快照的版本一致性。

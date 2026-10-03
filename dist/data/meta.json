@@ -1,0 +1,31 @@
+{
+  "version": "strict-v0.2",
+  "sourceTimestamp": "2026-09-30T20:22:42Z",
+  "datasetId": "beijing-260930-strict-v02",
+  "includedCounts": {
+    "shopping_center": 216,
+    "subway_entrance": 1112,
+    "coffee": 431,
+    "office_building": 595
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "dataSha256": "2c0957c675b431d3e72a093d1382112ad1512b82331ba58aec787f75c26c6001",
+  "reviewedRealWorld": false,
+  "center": [
+    39.95,
+    116.4
+  ],
+  "bounds": [
+    [
+      39.65,
+      116.1
+    ],
+    [
+      40.18,
+      116.75
+    ]
+  ],
+  "sourceIncludedSha256": "0e827e4b9bcb72fe34a781404aa2e05d129685319e439455124e0d5808e46e9a",
+  "roadsSha256": "3af18e80386eb40ac6ffdbe871e2454dfc86966696c4936eb871014d8956df9c"
+}

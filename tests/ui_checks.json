@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "qa_scope": "automated development checks, NOT participant research",
+  "desktop": [
+    "rendered frozen roads and POIs",
+    "three point analysis",
+    "coordinate form",
+    "zero-record state",
+    "invalid WebMCP input rejected",
+    "WebMCP valid input and state readback",
+    "task timer and submission",
+    "point mutation clears old decision and cancels timer",
+    "OSM provenance links",
+    "Markdown and JSON downloaded and actual contents checked",
+    "console error/warn logs empty"
+  ],
+  "mobile": {
+    "viewport_width": 390,
+    "document_width": 375,
+    "document_horizontal_overflow": false,
+    "table_scroll": "contained with sticky metric column"
+  },
+  "data_checks": [
+    "exact client POI hash",
+    "road hash",
+    "included counts",
+    "exported hash and source IDs match current snapshot"
+  ],
+  "remaining_research": [
+    "target-user interviews",
+    "independent business-classification checks",
+    "balanced manual/system efficiency benchmark"
+  ]
+}
